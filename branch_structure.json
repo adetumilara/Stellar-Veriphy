@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/registry-types-lockfiles-reproducible-builds",
+    "feat/e2e-testing-and-seo",
+    "feat/upload-observability-tx-status-drafts",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/registry-types-lockfiles-reproducible-builds": "main",
+    "feat/e2e-testing-and-seo": "main",
+    "feat/upload-observability-tx-status-drafts": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/registry-types-lockfiles-reproducible-builds",
+    "feat/e2e-testing-and-seo",
+    "feat/upload-observability-tx-status-drafts",
+    "origin"
+  ]
+}
