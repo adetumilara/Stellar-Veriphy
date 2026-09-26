@@ -1,6 +1,4 @@
 node_modules/
-.env
-.env.local
 dist/
 target/
 .next/
@@ -15,3 +13,4 @@ test-results/
 reports/
 .bundle-reports/
 .stryker-tmp/
+config.bat
